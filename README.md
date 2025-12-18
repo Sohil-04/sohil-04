@@ -1,14 +1,18 @@
+<p align="center">
+  <img src="assets/spiderverse-banner.png" />
+</p>
+
 <h1 align="center">
-🕷️ <span style="color:#ff0055;">S O H I L</span>
-<span style="color:#00ffff;">T A D A V I</span> 🕸️
+🕷️ <span style="color:#ff0055;">SOHIL</span>
+<span style="color:#00ffff;">TADAVI</span> 🕸️
 </h1>
 
 <h3 align="center">
-⚡ AI / ML • Data Science • Python ⚡
+⚡ Machine Learning • Data Science • Deep Learning ⚡
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=900&color=FF0055&center=true&vCenter=true&width=600&lines=Welcome+to+the+Spider-Verse;Machine+Learning+Engineer;Code.+Learn.+Evolve.;Anyone+Can+Wear+the+Mask" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=900&color=FF0055&center=true&vCenter=true&width=650&lines=Welcome+to+the+Spider-Verse;AI+%26+ML+Engineer;Code.+Learn.+Evolve.;Anyone+Can+Wear+the+Mask" />
 </p>
 
 <p align="center">
@@ -65,16 +69,8 @@
 
 ---
 
-## 🕸️ Profile Views
-
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=sohil-04&icon=5&color=6"/>
-</p>
-
----
-
-<p align="center">
-🕷️ <i>"Anyone can wear the mask."</i> — Spider-Verse
+🕷️ <i>"Anyone can wear the mask."</i>
 </p>
 
 <p align="center">
