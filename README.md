@@ -1,15 +1,80 @@
+<h1 align="center">
+🕷️ Hey, I'm <span style="color:#ff0055;">Sohil</span> 🕷️
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohil_tadavi_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohil-tadavi-854131296) 
+<h3 align="center">
+⚡ AI / ML Engineer • Deep Learning • Flutter ⚡
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sohil-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sohil-04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohil-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sohil-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🕸️ About Me
+
+🧠 AI & Data Science Engineer  
+🤖 Training ML & Deep Learning models  
+📱 Deploying AI into Flutter apps  
+🌌 Learning GenAI & advanced neural networks  
+
+> *"Anyone can wear the mask."* — Spider-Verse 🕷️
+
+---
+
+## ⚡ Tech Arsenal
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-ff0055?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-00ffff?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-ff9900?style=for-the-badge&logo=pytorch&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-7f00ff?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00ff99?style=for-the-badge&logo=mysql&logoColor=black"/>
+</p>
+
+---
+
+## 🧬 Spider-Projects
+
+🕷️ Fruit & Vegetable Image Classification  
+🕷️ Seq2Seq English → Hindi Translator  
+🕷️ AI Study Platform with Chatbot  
+🕷️ ML Model Deployment in Flutter  
+
+---
+
+## 🕸️ GitHub Spider-Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+</p>
+
+---
+
+## 🕷️ Web Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+🕸️ LinkedIn: https://linkedin.com/in/yourprofile  
+🕸️ Email: yourmail@gmail.com  
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="250">
+</p>
+
+<h3 align="center">
+🕷️ Welcome to the Spider-Verse of AI 🕷️
+</h3>
