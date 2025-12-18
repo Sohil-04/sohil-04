@@ -1,4 +1,15 @@
+<h1 align="center">Hi 👋, I'm Sohil Tadavi</h1>
+<h3 align="center">AI & ML Enthusiast | Data Science | Python Developer</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Learner;Data+Science+Enthusiast;Python+Developer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<i>“Small steps every day lead to big results.”</i> 🌱
+</p>
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohil_tadavi_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohil-tadavi-854131296) 
 
