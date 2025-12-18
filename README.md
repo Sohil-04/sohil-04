@@ -2,8 +2,9 @@
 <h3 align="center">AI & ML Enthusiast | Data Science | Python Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Learner;Data+Science+Enthusiast;Python+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Learning+AI+One+Step+at+a+Time;Machine+Learning+Beginner;Python+%7C+Data+Science;Consistency+Over+Motivation" />
 </p>
+
 
 <p align="center">
 <i>“Small steps every day lead to big results.”</i> 🌱
