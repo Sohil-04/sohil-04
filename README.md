@@ -3,24 +3,20 @@
 I’m Sohil, a tech enthusiast exploring AI, machine learning, and data science. I like learning by building projects—ranging from web development to ML models—and I’m always curious about how things work under the hood. Currently, I’m expanding my skills in deep learning and mobile app development.
 
 ---
-
 ## My Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"> 
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-
-<br>
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"> 
 <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
 
----
+
 
 ## GitHub Stats
 
