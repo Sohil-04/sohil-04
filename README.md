@@ -5,16 +5,18 @@ I’m Sohil, a tech enthusiast exploring AI, machine learning, and data science.
 ---
 ## My Skills
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"> 
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"> 
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+</p>
 
 
 
